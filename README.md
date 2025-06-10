@@ -8,7 +8,7 @@ This project features a fully customizable mechanical keyboard, designed and pro
 
 ## 🔧 Project Summary
 
-As part of my engineering internship at **Jitterware Inc.**, I led the mechanical design and iterative prototyping of a **3D-printed, hot-swappable gaming keyboard**. The project focused on developing a **modular, user-customizable chassis** that enables part replacement without tools, while maintaining tight tolerances required for switch alignment and PCB mounting.
+As part of my engineering internship at **Jitterware Inc.**, I contributed to the mechanical design and iterative prototyping of a **3D-printed, gaming keyboard**. The project focused on developing a **modular, user-customizable chassis** that enables part replacement without tools, while maintaining tight tolerances required for switch alignment and PCB mounting.
 
 The mechanical housing was designed to accommodate **standard MX-compatible switches**, with provisions for **RGB lighting diffusion**, **custom stabilizers**, and **snap-fit connections** for ease of assembly. The parametric model allows on-demand generation of various form factors, including 60%, 75%, and TKL layouts.
 
